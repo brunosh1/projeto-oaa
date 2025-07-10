@@ -2,7 +2,7 @@ import os
 import shutil
 import time
 #caminho da pasta que será organizada
-caminho_origem= r"C:\Users\bruno\Downloads"
+caminho_origem= r"C:\Users\seu_usuario\Downloads"
 #dicionário que mapeia extexões para pastas
 mapa_pastas = {
     "Imagens": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
