@@ -40,13 +40,13 @@ Clone este repositório ou baixe o arquivo do script:
 bash
 Copiar
 Editar
-git clone https://github.com/brunoherminio/organizador-downloads.git
+git clone https://github.com/brunosh1/projeto-oaa
 Abra o arquivo organizador.py e configure o caminho da pasta que você quer organizar. Por padrão, ele já vem com a pasta Downloads:
 
 python
 Copiar
 Editar
-caminho_origem = r"C:\Users\bruno\Downloads"
+caminho_origem = r"C:\Users\seu_usuario\Downloads"
 Abra o terminal (Git Bash, PowerShell ou o terminal do VS Code)
 
 Vá até a pasta onde está o script:
@@ -77,4 +77,4 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar 
 
 Desenvolvido por Bruno Hermínio
 Estudante de Análise e Desenvolvimento de Sistemas
-Contato: linkedin.com/in/brunoherminio
+Contato: www.linkedin.com/in/bruno-dos-santos-a43ab6177
